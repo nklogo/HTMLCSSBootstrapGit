@@ -1,0 +1,15 @@
+.banner-item{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.product-image{
+    height: 250px;
+    object-fit: contain;
+}
+
+.product-title{
+    height: 50px;
+    overflow: hidden
+}
